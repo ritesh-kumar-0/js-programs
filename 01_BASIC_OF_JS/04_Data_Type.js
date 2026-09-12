@@ -11,16 +11,23 @@ let age = 18   // number
 let isLoggedIn = false // boolean 
 //data type 
 //number => 2 to power 53
-// bigint 
+// bigint => Used for extremely large integers.
 // string = ""
 //boolean => true/false 
 //null => standalone vale
 // undefined => 
-// symbol =>
+// typeof =>typeof tells us the data type of a value.
+// symbol => Symbols create unique identifiers
 
-//Object 
+//Object ,  Objects store data in key-value pairs.
+let student = {
+    name: "Ritesh",
+    age: 20,
+    marks: 75
+};
+console.log(student.name);
 
 console.log(typeof age ); // number 
-console.log(typeof null); // object 
-console.log(typeof undefined); // undefined 
+console.log(typeof null); // object , null means intentionally empty/no value
+console.log(typeof undefined); // undefined A variable exists but doesn't have a value.
 
