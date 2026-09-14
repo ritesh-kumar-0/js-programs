@@ -7,6 +7,6 @@ console.log(age);
 console.log(marks);
 console.log(temperature);
 
-console.log(typeof marks);
+console.log(typeof marks); // Number 
 
 console.log("Hello" * 5) // NaN
