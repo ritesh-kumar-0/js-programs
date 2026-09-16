@@ -3,6 +3,7 @@
 //conceptually, primitive values and references associated with function execution
 
 //It works in a Last In, First Out (LIFO) manner
+// Stack memory is a memory area used for managing function execution and storing local execution information.
 
 // stack(Primitive ), Heap (Non-primitive )
 
