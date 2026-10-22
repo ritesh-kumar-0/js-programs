@@ -17,5 +17,5 @@ console.log(myDate.toLocaleString()) //output:  22/10/2026, 11:06:54 pm
 
 // Check the data type of myDate
 console.log(typeof myDate);  // output: object 
-// The output is "object" because Date objects are objects in JavaScript
+
 
