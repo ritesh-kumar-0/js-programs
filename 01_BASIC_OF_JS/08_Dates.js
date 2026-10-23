@@ -1,4 +1,4 @@
-// Dates 
+// Dates Method 
 // Create a new Date object that stores the current date and time
 let myDate = new Date()
 
